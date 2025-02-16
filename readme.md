@@ -15,6 +15,9 @@ Hola chicos, esto es un Readme, el Readme lo utilizamos en los repositorios de c
 ├── data/  *(Archivos de datos y configuraciones)*
 │   ├── Crime_Data_from_2020_to_Present.csv
 │
+├── tests/  *tests_to_check_correct_workingflow*
+│   ├── test.txt
+│
 ├── readme.md
 │
 └── requirements_crime_data.txt

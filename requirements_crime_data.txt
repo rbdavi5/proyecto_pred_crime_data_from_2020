@@ -1,3 +1,6 @@
+# Poetry: use these exact pins
+#   poetry init -n
+#   poetry add ipykernel==6.29.5 seaborn==0.13.2 matplotlib==3.10.0 pandas==2.2.3
 ipykernel==6.29.5
 seaborn==0.13.2
 matplotlib==3.10.0
